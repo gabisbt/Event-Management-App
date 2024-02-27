@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "email": "gabrielsubtirica@yahoo.com",
+      "password": "$2b$10$ikZxOoL5FnbR0wPhIvpYru5z0KYl3IBJgMlvoSJotgAz/GMpo4D0W"
+    },
+    {
+      "email": "mireanucosmin@gmail.com",
+      "password": "$2b$10$qPgFtTLr9oIe2eQNBOtNNOUZcFYpY34i8k4TdgItQuhvZhffv8OUq"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2b$10$Bb6sTPQYuGlWqj7wvqn/geGeGebCf7F2H9HGrgbL5KQC8zwOkeFwq"
+    },
+    {
+      "email": "admin1234@gmail.com",
+      "password": "$2b$10$qgXP5nQkNbSBFpd0BQ5tB.5NI4cKyHJAfupkdXG4LsICjazMFQCnq"
+    },
+    {},
+    {
+      "email": "admin11@gmail.com",
+      "password": "$2b$10$8IQtg9lW/HTZ379Ltz7dne7gcItZ72EuL9ORunI3eLDMcODFkwvFG"
+    }
+  ]
+}
